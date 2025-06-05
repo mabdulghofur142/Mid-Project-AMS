@@ -47,3 +47,12 @@ Masyarakat berharap efisiensi anggaran tidak mengorbankan kesejahteraan dan teta
 - Jangan korbankan pendidikan dan kesehatan. Efisiensi anggaran sebaiknya tidak diberlakukan untuk kementrian kesehatan, disdik saintek, dan pendidikan dasar dan menengah karena sektor -sektor ini merupakan sektor yang terlibat dan berdampak langsung pada masyarakat.
 - Libatkan masyarakaat. Pemerintah perlu lebih transparan dalam penggunaan anggaran agar masyarakat bisa ikut mengawasi.
 - Bersikap adil dan bijak. Efisiensi anggaran perlu dikaji kembali agar tidak hanya menguntungkan pemerintah tetapi juga memiliki dampak positif terhadap masyarakat.
+
+
+
+# Note
+Check our Code
+[Code_project](https://colab.research.google.com/github/mabdulghofur142/Mid-Project-AMS/blob/main/Code/Capstone_Project_01_(AMS_MID_Project)_Group_E.ipynb#scrollTo=fMvFbwS1PnNH)
+
+Check our video
+[Video_Presentasi_MID_AMS](https://www.youtube.com/watch?v=OKSLCrIVzqo)
